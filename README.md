@@ -46,7 +46,7 @@ Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that 
 ## 📦 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Freya.git
+git clone git@github.com:YadidyaM/FREYA-Quantum-System.git
 cd Freya
 ```
 ```bash
