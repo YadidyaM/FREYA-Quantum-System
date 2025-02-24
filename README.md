@@ -1,6 +1,7 @@
 # Freya: Quantum-Enhanced Predictive Maintenance System
-
-![Freya AI](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6cnAwNTVwYm1sZjhzdWZrdWxpbXpjMTQ4bHE4ZWx0amEwdWllYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ6cnAwNTVwYm1sZjhzdWZrdWxpbXpjMTQ4bHE4ZWx0amEwdWllYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" width="100" height="auto" />
+</p>
 
 ## 🚀 Overview
 Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that integrates **IBM’s Granite 3.1-8b-instruct AI** to revolutionize industrial maintenance. By leveraging **Quantum State Analysis**, **AI-driven anomaly detection**, and **intelligent scheduling**, Freya predicts equipment failures with **95% accuracy**, reducing downtime by **30%** and lowering maintenance costs by **40%**.
