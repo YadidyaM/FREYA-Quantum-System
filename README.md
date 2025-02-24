@@ -4,13 +4,13 @@
 </p>
 
 ## 🚀 Overview
-Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that integrates **IBM’s Granite 3.1-8b-instruct AI** to revolutionize industrial maintenance. By leveraging **Quantum State Analysis**, **AI-driven anomaly detection**, and **intelligent scheduling**, Freya predicts equipment failures with **95% accuracy**, reducing downtime by **30%** and lowering maintenance costs by **40%**.
+Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that integrates **IBM’s Granite 3.1-8b-instruct AI** to revolutionize industrial maintenance. By leveraging **Quantum State Analysis**, **AI-driven anomaly detection**, and **intelligent scheduling**, Freya predicts equipment failures with **high accuracy**, reducing downtime by and lowering maintenance costs.
 
 ## 📌 Features
 - **Quantum-Enhanced Anomaly Detection** – Detects failures invisible to traditional AI  
 - **AI-Driven Maintenance Planning** – Optimizes scheduling and resource allocation  
 - **IBM Granite AI Core** – Industry-trained transformer model for real-time processing  
-- **Real-Time Data Monitoring** – Live dashboards for predictive insights  
+- **Real-Time Data Monitoring and Quantum building** – Live dashboards for predictive insights and Quantum Playground for building.  
 - **Cost Optimization Algorithms** – Intelligent strategies to reduce maintenance expenses  
 
 ## 🏭 Industry Applications
@@ -30,7 +30,6 @@ Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that 
 ### **Backend:**
 - Python, FastAPI
 - TensorFlow, IBM Granite AI
-- Quantum State Analysis (Qiskit)
 - PostgreSQL for data storage
 
 ### **Frontend:**
@@ -41,7 +40,6 @@ Freya is a cutting-edge **quantum-enhanced predictive maintenance system** that 
 ### **APIs & Integrations:**
 - IBM Cloud SDK (Granite AI Model)
 - Axios for real-time data fetching
-- WebSockets for live telemetry
 
 ## 📦 Installation & Setup
 ```bash
